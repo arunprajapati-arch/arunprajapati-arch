@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Arun Prajapati
-- 👀 I’m interested in Open Source Development
 - 🌱 I’m currently learning Java & DSA
 - 💞️ I’m looking to collaborate on Open Source Projects(beginner)
 - 📫 How to reach me - E-mail - myfutre290@gmail.com
