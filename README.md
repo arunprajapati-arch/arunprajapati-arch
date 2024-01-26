@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arun Prajapati
 - 🌱 I’m currently learning DSA & WebDev
 - 💞️ I’m looking to collaborate on Open Source Projects(beginner)
-- 📫 How to reach me - E-mail - myfutre290@gmail.com
+- 📫 How to reach me - E-mail - arunprajapati.mail@gmail.com
 
 <!---
 arunprajapati-arch/arunprajapati-arch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
