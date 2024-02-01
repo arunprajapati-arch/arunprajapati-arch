@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **arunprajapati.mail@gmail.com**
 
-- ⚡ Fun fact **There is no fun fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
