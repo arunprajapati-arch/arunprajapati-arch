@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/arunprajapati-arch/arunprajapati-arch/assets/142069392/8d509f8c-790b-478e-b13d-4b7460d0d5b8)]
+![MasterHead](https://github.com/arunprajapati-arch/arunprajapati-arch/assets/142069392/8d509f8c-790b-478e-b13d-4b7460d0d5b8)
 <h1 align="center">Hi 👋, I'm Arun Prajapati</h1>
 <h3 align="center">A passionate learner</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
