@@ -1,7 +1,3 @@
-# 💫 About Me:
-📚 I’m currently learning WEB DEV<br>✨ Establishing connections 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunprajapatilinked/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/arunprajapati_x) 
 
